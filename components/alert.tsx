@@ -10,12 +10,12 @@ const Alert = ({ preview }: Props) => {
   return (
     <div
       className={cn('border-b', {
-        'bg-neutral-800 border-neutral-800 text-white': preview,
-        'bg-neutral-50 border-neutral-200': !preview,
+        'dark:bg-slate-800 border-neutral-800 text-white': preview,
+        'dark:bg-slate-800  bg-neutral-50 border-neutral-200': !preview,
       })}
     >
       <Container>
-        <div className="py-2 text-center text-sm">
+        <div className=" py-2 text-center text-sm">
           {preview ? (
             <>
               This page is a preview.{' '}
