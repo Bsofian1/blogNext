@@ -1,19 +1,25 @@
 ---
-title: 'Dynamic Routing and Static Generation'
+title: 'Googly, a small robot with a big mission'
 excerpt: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Praesent elementum facilisis leo vel fringilla est ullamcorper eget. At imperdiet dui accumsan sit amet nulla facilities morbi tempus.'
-coverImage: '/assets/blog/dynamic-routing/cover.jpg'
-date: '2020-03-16T05:35:07.322Z'
+coverImage: '/assets/blog/dynamic-routing/googly.png'
+date: '2022-12-11T05:35:07.322Z'
 author:
-  name: JJ Kasper
-  picture: '/assets/blog/authors/jj.jpeg'
+  name: Sofian Bettayeb 
+  picture: '/assets/blog/authors/sofian.jpg'
 ogImage:
-  url: '/assets/blog/dynamic-routing/cover.jpg'
+  url: '/assets/blog/dynamic-routing/googly.png'
 ---
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Praesent elementum facilisis leo vel fringilla est ullamcorper eget. At imperdiet dui accumsan sit amet nulla facilities morbi tempus. Praesent elementum facilisis leo vel fringilla. Congue mauris rhoncus aenean vel. Egestas sed tempus urna et pharetra pharetra massa massa ultricies.
-
-Venenatis cras sed felis eget velit. Consectetur libero id faucibus nisl tincidunt. Gravida in fermentum et sollicitudin ac orci phasellus egestas tellus. Volutpat consequat mauris nunc congue nisi vitae. Id aliquet risus feugiat in ante metus dictum at tempor. Sed blandit libero volutpat sed cras. Sed odio morbi quis commodo odio aenean sed adipiscing. Velit euismod in pellentesque massa placerat. Mi bibendum neque egestas congue quisque egestas diam in arcu. Nisi lacus sed viverra tellus in. Nibh cras pulvinar mattis nunc sed. Luctus accumsan tortor posuere ac ut consequat semper viverra. Fringilla ut morbi tincidunt augue interdum velit euismod.
-
-## Lorem Ipsum
-
-Tristique senectus et netus et malesuada fames ac turpis. Ridiculous mus mauris vitae ultricies leo integer malesuada nunc vel. In mollis nunc sed id semper. Egestas tellus rutrum tellus pellentesque. Phasellus vestibulum lorem sed risus ultricies tristique nulla. Quis blandit turpis cursus in hac habitasse platea dictumst quisque. Eros donec ac odio tempor orci dapibus ultrices. Aliquam sem et tortor consequat id porta nibh. Adipiscing elit duis tristique sollicitudin nibh sit amet commodo nulla. Diam vulputate ut pharetra sit amet. Ut tellus elementum sagittis vitae et leo. Arcu non odio euismod lacinia at quis risus sed vulputate.
+Googly is a robot. His mission is simple: He helps people like you find stories they want to read.
+Even if his mission is simple, his work is not easy. Googly works in a library called "Internet" and it's the largest library ever built. Actually, it's even bigger than all libraries assembled together. The Internet has all the books you can imagine, and even more.  
+But, nobody is in charge of tidying up the library.  
+Imagine walking on the Internet and having books laying on the floor and from the ceiling. Flying books appear and disappear everywhere.   
+It's a real mess.  
+Fortunately, Googly has 2 superpowers:  
+1) He is one of the fastest robots ever built- and he doesn't like to make you wait for your stories.  
+2) He doesn't care about the mess. Once he read a book, he will remember the story and where to find it forever.  
+Everyday. Googly will go at lightning speed through all the pages, jumping from one book to another. He will read everything in the book and memorize it.   
+Sometimes, what's written in a book is confusing for a robot. What humans write for humans doesn't always make sense for a robot. Googly needs help.  
+Googly asks Seo, his best friend. Seo is half human, half robot, like a mermaid.  
+Her superpower is to understand humans and robots.  
+They work together to make sure that Googly understands everything in a book. For example, when there is an image on the book, Googly cannot see it with his robot eyes. Seo describe the image with words so that Googly can understand it.  
+The more Googly understands a book, the more stories you can read.  
