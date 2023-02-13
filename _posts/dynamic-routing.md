@@ -1,6 +1,6 @@
 ---
 title: 'Googly, a small robot with a big mission'
-excerpt: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Praesent elementum facilisis leo vel fringilla est ullamcorper eget. At imperdiet dui accumsan sit amet nulla facilities morbi tempus.'
+excerpt: 'Googly is a robot. His mission is simple: He helps people like you find stories they want to read.'
 coverImage: '/assets/blog/dynamic-routing/googly.png'
 date: '2022-12-11T05:35:07.322Z'
 author:
