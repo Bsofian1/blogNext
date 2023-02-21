@@ -1,13 +1,13 @@
 ---
 title: 'Googly, a small robot with a big mission'
 excerpt: 'Googly is a robot. His mission is simple: He helps people like you find stories they want to read.'
-coverImage: '/assets/blog/dynamic-routing/googly.png'
+coverImage: '/assets/blog/dynamic-routing/Googly.png'
 date: '2022-12-11T05:35:07.322Z'
 author:
   name: Sofian Bettayeb 
   picture: '/assets/blog/authors/sofian.jpg'
 ogImage:
-  url: '/assets/blog/dynamic-routing/googly.png'
+  url: '/assets/blog/dynamic-routing/Googly.png'
 ---
 Googly is a robot. His mission is simple: He helps people like you find stories they want to read.
 Even if his mission is simple, his work is not easy. Googly works in a library called "Internet" and it's the largest library ever built. Actually, it's even bigger than all libraries assembled together. The Internet has all the books you can imagine, and even more.  
