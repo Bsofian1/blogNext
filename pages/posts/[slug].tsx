@@ -18,6 +18,8 @@ type Props = {
   preview?: boolean
 }
 
+
+
 export default function Post({ post, morePosts, preview }: Props) {
   const router = useRouter()
   if (!router.isFallback && !post?.slug) {
@@ -34,9 +36,10 @@ export default function Post({ post, morePosts, preview }: Props) {
             <article className="mb-32">
               <Head>
                 <title>
-                  {post.title} | Next.js Blog Example with {CMS_NAME}
+                  {post.title} | Sofian's blog
                 </title>
                 <meta property="og:image" content={post.ogImage.url} />
+                <meta property="og:description" content={post.excerpt} />
               </Head>
               <PostHeader
                 title={post.title}
@@ -68,6 +71,7 @@ export async function getStaticProps({ params }: Params) {
     'content',
     'ogImage',
     'coverImage',
+    'excerpt',
   ])
   const content = await markdownToHtml(post.content || '')
 

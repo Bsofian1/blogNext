@@ -2,7 +2,7 @@
 title: "Every day"
 excerpt: "Stopping is the main reason why we don’t reach our goals. What will happen if we never stop something? "
 coverImage: "/assets/blog/every-day/every-day.jpg"
-date: "2023-02-21T05:35:07.322Z"
+date: "2023-02-22T05:35:07.322Z"
 author:
   name: "Sofian"
   picture: "/assets/blog/authors/sofian.jpg"
